@@ -1,0 +1,6 @@
+[ADDRESS]
+ListenAddress = "0.0.0.0:19132"
+TargetAddress = "192.168.64.9:19132"
+
+[LOGS]
+Enable = true

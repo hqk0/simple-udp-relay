@@ -1,0 +1,13 @@
+# Binaries
+symple-udp-relay
+
+# OS specific files
+.DS_Store
+
+# Go workspaces
+go.work
+go.work.sum
+
+config.toml
+AGENTS.md
+TODO.md
