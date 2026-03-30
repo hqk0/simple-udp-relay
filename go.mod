@@ -1,4 +1,4 @@
-module github.com/hqk0/symple-udp-relay
+module github.com/hqk0/simple-udp-relay
 
 go 1.26.1
 
